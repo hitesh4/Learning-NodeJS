@@ -1,0 +1,19 @@
+{
+  "name": "hitesh",
+  "version": "1.0.0",
+  "description": "TEst",
+  "main": "main.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hitesh4/Learning-NodeJS.git"
+  },
+  "author": "Hitesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hitesh4/Learning-NodeJS/issues"
+  },
+  "homepage": "https://github.com/hitesh4/Learning-NodeJS#readme"
+}
